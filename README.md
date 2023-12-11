@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<h1 align="center">Top-Movie-Website</h1>
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p>Welcome to the Top Movie website! This project aims to provide users with a platform to discover and explore the latest movies and TV shows. The website utilizes the <a href="https://developer.themoviedb.org/docs" target="_blank">TMDb</a> (The Movie Database) API to fetch up-to-date information about movies and TV series.</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p>The application is a website for renting cars of various types, built entirely using Next.js 13 and TypeScript. The site used API <a href="https://www.imagin.studio/car-image-api" target="_blank">imagin.studio/car-image-api</a> to retrieve all car data, and API <a href="https://rapidapi.com/apininjas/api/cars-by-api-ninjas" target="_blank">Rapidapi</a> was also used to retrieve all pictures of the cars on the site. </p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<div><h3>Demo: </h3><a href="top-movie-l8fcfvi44-salah-moftah.vercel.app" target="_blank">top-movie-l8fcfvi44-salah-moftah.vercel.app</a></div>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Features
 
-## Learn More
+- **Movie and TV Show Listings:** Browse through a vast collection of movies and TV shows, including popular, trending, and newly released titles.
 
-To learn more about Next.js, take a look at the following resources:
+- **Detailed Information:** Access detailed information about each movie or TV show, including synopsis, cast, release date, and more.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Search Functionality:** Easily search for specific movies or TV shows based on titles, genres, or keywords.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Responsive Design:** The website is designed to be responsive, providing a seamless experience across various devices, including desktops, tablets, and smartphones.
 
-## Deploy on Vercel
+- **Dynamic UI Components:** Utilization of dynamic UI components and animations to enhance the user experience.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Watchlist:** Create a personalized watchlist to keep track of movies and TV shows you want to watch later.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Trending Movies This Week:** Discover the trending movies of the week and stay up-to-date with what's popular in the world of entertainment.
+
+
+## Tools and Technologies Used
+- Next.js 13
+- TypeScript
+- Tailwind CSS
+- Axios
+- Flowbite-react
+- Framer Motion
+- Headless UI
+- Swiper js
+- React Icons
+
+## Contact
+- GitHub [@Salah-Moftah](https://github.com/Salah-Moftah)
+- FaceBook [@salahmoftah142](https://www.facebook.com/salahmoftah142)
+- LinkedIn [@](#)
+
