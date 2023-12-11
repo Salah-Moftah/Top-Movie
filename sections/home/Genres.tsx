@@ -79,7 +79,7 @@ function Genres() {
                 setExploreGenre(String(genre.id));
               }}
             >
-              <div className="min-h-[100px] relative">
+              <div className="min-h-[100px] relative w-full">
                 <Image
                   src={`/${genre.name.replace(/ /g, "-")}.jpg`}
                   alt={genre.name}
