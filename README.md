@@ -5,9 +5,9 @@
 
 <p>Welcome to the Top Movie website! This project aims to provide users with a platform to discover and explore the latest movies and TV shows. The website utilizes the <a href="https://developer.themoviedb.org/docs" target="_blank">TMDb</a> (The Movie Database) API to fetch up-to-date information about movies and TV series.</p>
 
-<p>The application is a website for renting cars of various types, built entirely using Next.js 13 and TypeScript. The site used API <a href="https://www.imagin.studio/car-image-api" target="_blank">imagin.studio/car-image-api</a> to retrieve all car data, and API <a href="https://rapidapi.com/apininjas/api/cars-by-api-ninjas" target="_blank">Rapidapi</a> was also used to retrieve all pictures of the cars on the site. </p>
+<p>The entire site is designed using Next.js 13 and TypeScript.</p>
 
-<div><h3>Demo: </h3><a href="top-movie-l8fcfvi44-salah-moftah.vercel.app" target="_blank">top-movie-l8fcfvi44-salah-moftah.vercel.app</a></div>
+<div><h3>Demo: </h3><a href="https://top-movie.vercel.app/" target="_blank">https://top-movie.vercel.app</a></div>
 
 ## Features
 
