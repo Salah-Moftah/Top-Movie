@@ -59,7 +59,7 @@ function SwiperHero({ data, index, setIndex, loading }: SwiperHeroProps) {
                 }
               }}
             >
-              <Link href="#">
+              <Link href="#" className="w-full">
                 <div className="md:min-h-[270px] min-h-[200px] relative">
                   <Image
                     src={`https://image.tmdb.org/t/p/original/${movie.poster_path}`}
