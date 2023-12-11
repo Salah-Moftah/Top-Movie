@@ -8,6 +8,7 @@ function Poster({ movie, genres, isMovieOrTv }: PosterProps) {
   return (
     <Link
       href={`/${movie.media_type ? movie.media_type : isMovieOrTv}/${movie.id}`}
+      className="w-full"
     >
       <div className="md:min-h-[270px] min-h-[200px] overflow-hidden rounded-2xl relative">
         <Image
